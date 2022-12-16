@@ -14,4 +14,7 @@ Tech Stack Used:
 1) YOLO Algorithm
 2) SMTP 
 
+Streamlit is an open source app framework in python language. It helps us create beautiful web-apps for data science and machine learning in a little time. It is compatible with major python libraries such as scikit-learn, keras, pytorch, latex, numpy, pandas, matplotlib, etc.. 
+
+
 DataSet and YOLO Weight File Uploaded on google drive. Link given below:
