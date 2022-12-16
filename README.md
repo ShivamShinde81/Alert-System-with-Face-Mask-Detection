@@ -21,7 +21,7 @@ It helps us create beautiful web-apps for data science and machine learning in a
 
 
 #### DataSet and YOLO Weight File Uploaded on google drive. Link given below:
-
+https://drive.google.com/drive/folders/1cD9VC43bT3FABr9KPX7Bi2vlQb1Cqv-x?usp=share_link
 
 #### Reference:
 https://github.com/adityap27/face-mask-detector
