@@ -13,3 +13,5 @@ improper_mask.
 Tech Stack Used:
 1) YOLO Algorithm
 2) SMTP 
+
+DataSet and YOLO Weight File Uploaded on google drive. Link given below:
